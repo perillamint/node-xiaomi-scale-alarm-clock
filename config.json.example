@@ -1,0 +1,11 @@
+{
+    "miscale": {
+        "addr": "88:0f:10:aa:bb:cc"
+    },
+    "player": {
+        "bin": "/usr/bin/mpv",
+        "opts": ["--no-video", "--loop=inf"],
+        "file": "alarm_ogg/Osmium.ogg"
+    },
+    "alarm": "07:30:00"
+}
